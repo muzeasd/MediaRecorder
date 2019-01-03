@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1CCA7B</color>
+    <color name="colorPrimaryDark">#1CCA7B</color>
+    <color name="colorAccent">#E33C32</color>
+
+    <color name="tab_indicator_color">#2F6490</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="maroon">#B22222</color>
+    <color name="dark_blue">#000080</color>
+    <color name="dark_green">#006400</color>
+    <color name="gray">#C0C0C0</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="lime">#00FF00</color>
+    <color name="cyan">#00FFFF</color>
+
+    <color name="peacock">#33A1C9</color>
+    <color name="cichlid">#0147FA</color>
+
+    <color name="orange">#FFA500</color>
+    <color name="spinner_bg_color">#FFFFCC</color>
+
+
+
+    <!-- runs colors -->
+    <color name="fragment_options_bgcolor">#F5F5F5</color>
+
+
+</resources>
